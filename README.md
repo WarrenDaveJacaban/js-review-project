@@ -1,4 +1,4 @@
 # Warren Dave Jacaban
-This project is a review of JavaScript concepts, from beginner to advancedhiy
+This project is a review of JavaScript concepts, from beginner to advanced
 
-# gwapo ko
+# Updating file from github repo and pull changes to local
